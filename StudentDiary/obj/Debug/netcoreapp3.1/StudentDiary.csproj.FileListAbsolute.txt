@@ -1,0 +1,13 @@
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\bin\Debug\netcoreapp3.1\StudentDiary.exe
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\bin\Debug\netcoreapp3.1\StudentDiary.deps.json
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\bin\Debug\netcoreapp3.1\StudentDiary.runtimeconfig.json
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\bin\Debug\netcoreapp3.1\StudentDiary.runtimeconfig.dev.json
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\bin\Debug\netcoreapp3.1\StudentDiary.dll
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\bin\Debug\netcoreapp3.1\StudentDiary.pdb
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\obj\Debug\netcoreapp3.1\StudentDiary.csprojAssemblyReference.cache
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\obj\Debug\netcoreapp3.1\StudentDiary.csproj.CoreCompileInputs.cache
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\obj\Debug\netcoreapp3.1\StudentDiary.AssemblyInfoInputs.cache
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\obj\Debug\netcoreapp3.1\StudentDiary.AssemblyInfo.cs
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\obj\Debug\netcoreapp3.1\StudentDiary.dll
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\obj\Debug\netcoreapp3.1\StudentDiary.pdb
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\StudentDiary\obj\Debug\netcoreapp3.1\StudentDiary.genruntimeconfig.cache
