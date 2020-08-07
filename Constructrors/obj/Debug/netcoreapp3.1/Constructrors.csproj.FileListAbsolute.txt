@@ -1,0 +1,13 @@
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\bin\Debug\netcoreapp3.1\Constructrors.exe
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\bin\Debug\netcoreapp3.1\Constructrors.deps.json
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\bin\Debug\netcoreapp3.1\Constructrors.runtimeconfig.json
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\bin\Debug\netcoreapp3.1\Constructrors.runtimeconfig.dev.json
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\bin\Debug\netcoreapp3.1\Constructrors.dll
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\bin\Debug\netcoreapp3.1\Constructrors.pdb
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\obj\Debug\netcoreapp3.1\Constructrors.csprojAssemblyReference.cache
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\obj\Debug\netcoreapp3.1\Constructrors.AssemblyInfoInputs.cache
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\obj\Debug\netcoreapp3.1\Constructrors.AssemblyInfo.cs
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\obj\Debug\netcoreapp3.1\Constructrors.csproj.CoreCompileInputs.cache
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\obj\Debug\netcoreapp3.1\Constructrors.dll
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\obj\Debug\netcoreapp3.1\Constructrors.pdb
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Constructrors\obj\Debug\netcoreapp3.1\Constructrors.genruntimeconfig.cache
